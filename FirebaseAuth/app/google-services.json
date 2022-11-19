@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "993164948923",
+    "project_id": "fir-mlrealtime",
+    "storage_bucket": "fir-mlrealtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993164948923:android:24f379a9942949a63ac09e",
+        "android_client_info": {
+          "package_name": "taipt4.kotlin.androidsamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993164948923-o0c9ekef9c7612fqmu7f6ps83o716u68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0YxVjqTwbhtFGxqeKRQahTohkqDU-djM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993164948923-o0c9ekef9c7612fqmu7f6ps83o716u68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993164948923:android:bd3e55cd5816ab323ac09e",
+        "android_client_info": {
+          "package_name": "taipt4.kotlin.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993164948923-276aehkfkigmadtub19me988pddac45r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taipt4.kotlin.firebaseauth",
+            "certificate_hash": "d8dc3108554d62398008202890d11bfbda0abf9f"
+          }
+        },
+        {
+          "client_id": "993164948923-o0c9ekef9c7612fqmu7f6ps83o716u68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0YxVjqTwbhtFGxqeKRQahTohkqDU-djM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993164948923-o0c9ekef9c7612fqmu7f6ps83o716u68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
